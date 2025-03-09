@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 /**
- * add - adds two numbers 
+ * add - adds two numbers
+ * @a: num
+ * @b: num
  * Return: the number
  */
 
@@ -26,3 +28,4 @@ int main()
 	printf("%d\n", sum);
 	return (0);
 }
+
